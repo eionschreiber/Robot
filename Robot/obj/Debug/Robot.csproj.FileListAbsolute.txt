@@ -1,0 +1,6 @@
+c:\users\eions\documents\visual studio 2015\Projects\Robot\Robot\bin\Debug\Robot.exe.config
+c:\users\eions\documents\visual studio 2015\Projects\Robot\Robot\bin\Debug\Robot.exe
+c:\users\eions\documents\visual studio 2015\Projects\Robot\Robot\bin\Debug\Robot.pdb
+c:\users\eions\documents\visual studio 2015\Projects\Robot\Robot\obj\Debug\Robot.exe
+c:\users\eions\documents\visual studio 2015\Projects\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\eions\Documents\Visual Studio 2015\Projects\Robot\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache

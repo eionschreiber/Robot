@@ -7,3 +7,5 @@ C:\Users\eions\Documents\Visual Studio 2015\Projects\Robot\Robot\obj\Debug\Robot
 C:\Users\eions\Documents\GitHub\Robot\Robot\bin\Debug\Robot.exe.config
 C:\Users\eions\Documents\GitHub\Robot\Robot\obj\Debug\Robot.exe
 C:\Users\eions\Documents\GitHub\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\eions\Documents\GitHub\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\eions\Documents\GitHub\Robot\Robot\bin\Debug\Robot.pdb

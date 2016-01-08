@@ -8,10 +8,16 @@ namespace Robot
 {
     public abstract class Boss
     {
-        public int HP = 100;
+        public int Health;
+        protected Boss(string bossName)
+        {
+            Name = bossName;
+            Health = 100;
+        }
+        
         public int Attack { get; set; }
         public int HeartPeice { get; set; }
-        public string Name { get; set; }
+        public string Name { get; private set; }
         public bool Living { get; set; }
         public int MagicPower { get; set; }
 

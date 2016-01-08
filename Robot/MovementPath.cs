@@ -8,8 +8,9 @@ namespace Robot
 {
     public interface IMovementPath
     {
-        List<int> startPos();
-
-        int movement();
+        int moveUp();
+        int moveDown();
+        int moveLeft();
+        int moveRight();
     }
 }
